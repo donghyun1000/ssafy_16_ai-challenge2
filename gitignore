@@ -1,0 +1,22 @@
+# 대회 데이터 · 모델 · 예측물 (공개 금지 · 대용량)
+data/
+*.zip
+*.7z
+*.csv
+*.npy
+*.safetensors
+*.bin
+*.pt
+output/
+ckpt/
+ensemble_inputs/
+submissions/
+downloads/
+
+# 환경
+venv*/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
